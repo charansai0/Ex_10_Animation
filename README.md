@@ -300,12 +300,12 @@ slide.xml
 </set>
 ~~~
 ## Output:
-zoom
+### zoom
 ![244113727-2ff03cbc-918a-434f-b0fe-5ba2177c2418](https://github.com/charansai0/Ex_10_Animation/assets/94296221/422666c7-5c88-4c37-8a86-4baea9115f30)
-clock wise
+### clock wise
 ![244114062-fffb21db-d97e-43ef-888e-dde9abc76d6b](https://github.com/charansai0/Ex_10_Animation/assets/94296221/4d224aba-7e95-460d-a56c-ebe2e51182aa)
 
-fade
+### fade
 ![244114681-a78fa942-ba12-4f6c-bfad-9f4600df1d5b](https://github.com/charansai0/Ex_10_Animation/assets/94296221/6748e373-3683-41a2-b705-d63b39fe39c4)
 
 ## Result:
